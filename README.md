@@ -1,6 +1,6 @@
 # solvesystem-decompositions
 
-**Foundation of numerical Analysis, Final Project**
+**Foundation of numerical analysis, Final project**
 
 Inputs: Square matrix A and vector b
 
